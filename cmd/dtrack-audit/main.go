@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Santhosh-Learning/dtrack-audit/internal/dtrack"
+	"github.com/ozontech/dtrack-audit/internal/dtrack"
 	"os"
 	"time"
 )
